@@ -21,7 +21,7 @@ A jornada foi guiada pelo **Design no Figma** apresentado pela Expert da DIO, se
 
 <div>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>
-<span>Para a estruturação do conteúdo e a semântica do blog.</span>
+<span>Para a estruturação do conteúdo.</span>
 </div>
 
 
